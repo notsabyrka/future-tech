@@ -12,6 +12,7 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@a1rth/css-normalize": "^1.2.4",
     "astro": "^7.3.2"
   },
   "allowScripts": {
